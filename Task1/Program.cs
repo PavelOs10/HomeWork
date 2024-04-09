@@ -40,7 +40,7 @@ void Exam(int m, int n)
     }
     else
     {
-        Console.Write(n); // or "m", becouse m = n
+        Console.Write(n);
     }
 }
 
